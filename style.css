@@ -1,0 +1,66 @@
+@font-face{
+	font-family: Myfont;
+	src: url("./Charming.otf");
+	color: white;
+}
+
+html {
+	background-color: black;
+}
+
+h1 {
+	font-family: Myfont;
+	color:white;
+}
+
+a:link, a:hover, a:visited {
+	color:white;
+	margin: 5px;
+}
+
+.links{
+	font-family: Myfont;
+	text-align: right;
+	position: relative;
+	
+}
+.title {
+	width:7%;
+	padding-left: 10px;
+	border-style: solid;
+	border-color: white;
+}
+
+div.photos{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+div.gallery{
+	border: 1px solid white;
+	margin: 5px;
+	float: left;
+}
+
+div.galery img{
+	width: 100%
+	height: auto;
+}
+
+#slideshow {
+	margin: 50px auto;
+	position: relative;
+	width: 600px;
+	height: 400px;
+	padding: 10px;
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+}
+
+#slideshow > div {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	right: 10px;
+	botom: 10px;
+}
