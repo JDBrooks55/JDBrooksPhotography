@@ -27,6 +27,7 @@ a:link, a:hover, a:visited {
 }
 .title {
 	margin-left: 20px;
+	margin-top: -45px;
 }
 
 div.photos{
