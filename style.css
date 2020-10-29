@@ -23,6 +23,7 @@ a:link, a:hover, a:visited {
 	font-family: Myfont;
 	text-align: right;
 	position: relative;
+	font-size: 30px;
 	
 }
 .title {
@@ -45,6 +46,11 @@ div.gallery{
 div.galery img{
 	width: 100%
 	height: auto;
+}
+
+div.solo{
+	text-align: center;
+	vertical-align: middle;
 }
 
 .fling-minislide {
