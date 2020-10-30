@@ -53,6 +53,12 @@ div.solo{
 	vertical-align: middle;
 }
 
+div.specs{
+	font-family: Myfont;
+	text-align: center;
+	color: white;
+}
+
 .fling-minislide {
 	width: 800px;
 	height: 500px;
