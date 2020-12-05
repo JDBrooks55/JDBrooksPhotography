@@ -65,7 +65,7 @@ html {
     grid-column-start: 5;
     grid-column-end: 9;
     grid-row-start: 8;
-    grid-row-end: 10;
+    grid-row-end: 11;
 }
 
 .gallery_item--4 {
@@ -85,7 +85,7 @@ html {
 .gallery_item--6 {
     grid-column-start: 6;
     grid-column-end: 9;
-    grid-row-start: 10;
+    grid-row-start: 11;
     grid-row-end: 14;
 }
 
