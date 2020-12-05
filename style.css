@@ -13,13 +13,13 @@ html {
 	font-family: Myfont;
 	text-align: center;
 	height: 100%;
-	width: 12%;
+	width: 185px;
 	position: fixed;
 	z-index: 1;
 	top: 0;
 	left: 2%;
 	overflow-x: hidden;
-	padding-top: 100px;
+	padding-top: 10px;
 	color:white;
 }
 
