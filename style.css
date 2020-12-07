@@ -33,7 +33,7 @@ html {
 
 #main{
 	padding-top: 3%;
-	margin-left: 12%;
+	margin-left: 185px;
 }
 
 div.photos{
@@ -41,17 +41,6 @@ div.photos{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-}
-
-div.gallery{
-	border: 1px solid white;
-	margin: 5px;
-	float: left;
-}
-
-div.galery img{
-	width: 100%
-	height: auto;
 }
 
 div.solo{
