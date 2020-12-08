@@ -61,3 +61,11 @@ html {
     grid-row-end: 10;
 }
 
+.gallery_item--3 {
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 6;
+    grid-row-end: 11;
+}
+
+
