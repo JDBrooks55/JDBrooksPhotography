@@ -75,4 +75,11 @@ html {
     grid-row-end: 14;
 }
 
+.gallery_item--5 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 10;
+    grid-row-end: 16;
+}
+
 
