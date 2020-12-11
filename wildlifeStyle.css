@@ -88,3 +88,10 @@ html {
     grid-row-start: 14;
     grid-row-end: 18;
 }
+
+.gallery_item--7 {
+    grid-column-start: 2;
+    grid-column-end: 5;
+    grid-row-start: 16;
+    grid-row-end: 21;
+}
