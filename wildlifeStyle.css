@@ -95,3 +95,10 @@ html {
     grid-row-start: 16;
     grid-row-end: 21;
 }
+
+.gallery_item--8 {
+    grid-column-start: 6;
+    grid-column-end: 9;
+    grid-row-start: 18;
+    grid-row-end: 25;
+}
