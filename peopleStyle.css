@@ -34,7 +34,7 @@ html {
 .gallery {
     	display: grid;
     	grid-template-columns: repeat(8, 1fr);
-    	grid-template-rows: repeat(32, 5vw);
+    	grid-template-rows: repeat(12, 5vw);
 	margin-left: 185px;
 	padding: 5px;
 	

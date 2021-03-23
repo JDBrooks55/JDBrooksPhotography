@@ -57,7 +57,7 @@ div.specs{
 .gallery {
     	display: grid;
     	grid-template-columns: repeat(8, 1fr);
-    	grid-template-rows: repeat(32, 5vw);
+    	grid-template-rows: repeat(9, 5vw);
 	margin-left: 185px;
 	padding: 5px;
 	color: white;
@@ -74,7 +74,7 @@ div.specs{
 
 .gallery_item--1 {
     grid-column-start: 2;
-    grid-column-end: 6;
+    grid-column-end: 5;
     grid-row-start: 1;
-    grid-row-end: 9;
+    grid-row-end: 10;
 }
