@@ -133,7 +133,21 @@ html {
 
 .gallery_item--13 {
     grid-column-start: 4;
-    grid-column-end: 7;
+    grid-column-end: 6;
     grid-row-start: 22;
     grid-row-end: 30;
+}
+
+.gallery_item--15 {
+    grid-column-start: 6;
+    grid-column-end: 9;
+    grid-row-start: 22;
+    grid-row-end: 30;
+}
+
+.gallery_item--14 {
+    grid-column-start: 1;
+    grid-column-end: 6;
+    grid-row-start: 30;
+    grid-row-end: 34;
 }
