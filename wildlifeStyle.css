@@ -102,3 +102,10 @@ html {
     grid-row-start: 18;
     grid-row-end: 25;
 }
+
+.gallery_item--9 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 21;
+    grid-row-end: 23;
+}

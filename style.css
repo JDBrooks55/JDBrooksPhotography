@@ -54,6 +54,10 @@ div.specs{
 	color: white;
 }
 
+a {
+	color: white;
+}
+
 .gallery {
     	display: grid;
     	grid-template-columns: repeat(8, 1fr);
